@@ -1,0 +1,22 @@
+to make integration [ checkout ] go as the following:
+
+1- go to 	====> https://developer.paypal.com/developer/accounts/
+2- click on ======> Log in to Dashboard
+3- click on ======> create account
+4- click on ======> Business (Merchant Account)
+5- click on ======> your region
+6- click on ======> create
+7- click on ======> ... in Personal ==> choose => View/edit account
+8- save this info ==> Email ID: && System Generated Password:
+9- take them to https://www.sandbox.paypal.com/
+10- sgin in with them
+11- tern into ==> https://developer.paypal.com/
+12- click on ======> My Apps & Credentials
+13- click on ======> create app
+14- enter the name
+15- click on ======> create app
+16- copy with Client ID
+17- paste it script in html file in ==> https://www.paypal.com/sdk/js?client-id=... with &currency=CAD Or USD this is for mony for the country and recomended ==> [ CAD Or USD ] [ CAD => canada and USD => United state ]
+18- close file html from editor
+19- go to App.js
+20- 
